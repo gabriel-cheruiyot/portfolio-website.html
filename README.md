@@ -1,4 +1,10 @@
-# portfolio-website.html
-web-portfolio.html
+# Portfolio-website.html
+# Author
 gabriel-cheruiyot
-outlines my current and future coding projects
+# Description
+Outlines my current and future coding projects
+# Technology used
+HTML5
+CSS
+# Lience
+MIT licence
